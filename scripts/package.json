@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "generate-feed": "node generate-feed.js",
+    "generate-report": "node generate-report.js",
     "prepare-digest": "node prepare-digest.js"
   },
   "dependencies": {
